@@ -56,3 +56,5 @@ navigator.mediaDevices.getUserMedia({audio: true}).then(s=>{
     });
 }).catch(e=>console.log(e));
 ```
+
+This code was tested only on YouTube but any similar websites may work too.
